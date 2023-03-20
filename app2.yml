@@ -1,2 +1,4 @@
+spring:
+  config:
+    name: app2
 app-url: "www.app2.ch"
-app-name: "app2"
